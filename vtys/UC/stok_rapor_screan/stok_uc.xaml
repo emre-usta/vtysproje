@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:vtys.UC.stok_rapor_screan"
         mc:Ignorable="d"
-        Title="Window1" Height="500" Width="800">
+        Title="Window1" Height="250" Width="400">
     <Grid Background="#FFF6F6F6">
-        
+        <Button Content="Dosya Seç"  Width="auto" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16"/>
+
     </Grid>
 </Window>

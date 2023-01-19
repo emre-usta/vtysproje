@@ -18,7 +18,7 @@ using System.Xml;
 namespace vtys.UC
 {
     /// <summary>
-    /// satis_login_uc.xaml etkileşim mantığı
+    /// bu_login_uc.xaml etkileşim mantığı
     /// </summary>
     public partial class satis_login_uc : UserControl
     {
